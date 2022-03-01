@@ -1,6 +1,14 @@
 <!-- <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <br> -->
 <h2> Hey there! I'm Tushar. 👋</h2>
+
+<a href="https://www.linkedin.com/in/tushar-dixit-7927051b1/">
+  <img align="left" alt="Tushar's LinkdeIN" width="26px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_linkedin-512.png" />
+</a>
+<a href="https://www.instagram.com/_tushardixit/">
+  <img align="left" alt="Tushar's Instagram" width="26px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png" />
+</a>
+<br>
 <img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 <h2> I'm in Pre-final year! 🙂 </h2>
 <h3> 👨🏻‍💻 About Me </h3>
@@ -12,9 +20,9 @@
 - 🌱 Enthusiast in Full Stack Web Developer and Machine-Learning.
 - ⚡ Life shrinks and expands on the proportion of your willingness to take risks and try new things.
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<!-- [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br />
+<br /> -->
 
 ### Tech Stack🧑‍💻:
 
