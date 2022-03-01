@@ -1,19 +1,19 @@
 <!-- <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <br> -->
-## Tushar Dixit
+<h2> Hey there! I'm Tushar. ✌️</h2>
+
 ## I'm in Pre-final year!
 
 <img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 <br>
+<h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 I’m currently working on MEARN!
-- 🌱 Want to learn everything 🤣
-- 👯 I’m looking to collaborate with others having same interest as of mine.
-- 🥅 2022 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love to do art and craft work.
-
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Tushar Spotify Playing" width="350" />](https://open.spotify.com/playlist/7yWqegEmVfBMMGr3vdaGf2)
+- 🔭 I’m currently looking for internship oppurtunities.
+- 🎓 Currently pursuing Computer Science Engineering (Pre-Final Year) 
+- 👨‍💻 Fluent in Java and C++ and have a knowledge of web development too.
+- 🔭 Exploring Competetive Programming.
+- 🌱 Enthusiast in Full Stack Web Developer and Machine-Learning.
+- ⚡ Life shrinks and expands on the proportion of your willingness to take risks and try new things.
 
 ### Connect with me:
 
